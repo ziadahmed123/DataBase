@@ -15,3 +15,21 @@ is used to ensure that data in the specific column is unique. A column cannot ha
 ### foreign key 
 is a column or group of columns in a relational database table that provides a link between data in two tables. 
 it is a primary key in anather table .
+
+
+
+
+### Normalization 
+Normalization is a database design technique that reduces data redundancy and eliminates undesirable characteristics like Insertion, Update and Deletion Anomalies. Normalization rules divides larger tables into smaller tables and links them using relationships. The purpose of Normalisation in SQL is to eliminate redundant (repetitive) data and ensure data is stored logically.
+
+
+
+Here is a list of Normal Forms in SQL:
+
+1NF (First Normal Form)
+2NF (Second Normal Form)
+3NF (Third Normal Form)
+BCNF (Boyce-Codd Normal Form)
+4NF (Fourth Normal Form)
+5NF (Fifth Normal Form)
+6NF (Sixth Normal Form)

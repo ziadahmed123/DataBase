@@ -10,6 +10,8 @@ Relational datbase : A relational database is a type of database that stores and
 
 
 
-primary key : is used to ensure that data in the specific column is unique. A column cannot have NULL values.
-foreign key : is a column or group of columns in a relational database table that provides a link between data in two tables. 
+### primary key 
+is used to ensure that data in the specific column is unique. A column cannot have NULL values.
+### foreign key 
+is a column or group of columns in a relational database table that provides a link between data in two tables. 
 it is a primary key in anather table .

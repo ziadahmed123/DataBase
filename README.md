@@ -32,3 +32,35 @@ Here is a list of Normal Forms in SQL:
 4NF (Fourth Normal Form) ,
 5NF (Fifth Normal Form) ,
 6NF (Sixth Normal Form)
+
+
+
+### RDBMS 
+Realtional DataBase Managment System : 
+is a program used to create, update, and manage relational databases. Some of the most well-known RDBMSs include MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, and Oracle Database. 
+An RDBMS includes functions that maintain the security, accuracy, integrity and consistency of the data.
+
+
+
+
+
+
+### OLTP ( online Transaction processing ) : 
+1-it is for CRUD operations ( create - read  - update - delete ).
+2- it is important to be normalized . 
+3-  it is managed by RDBMS .
+
+
+
+
+### OLAP ( online analytical processing ) 
+1- it is for read operations to make reports . 
+2- it imortant to be de normalized . 
+3- it is managed by Data Warehouse ( write once -- read many times ) 
+
+
+
+
+
+
+
